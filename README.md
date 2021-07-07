@@ -10,9 +10,9 @@ Semantic Versioning for Documents
 
 Given a version number MAJOR.MINOR.PATCH, increment the:
 
-1. MAJOR version when your document has undergone **significant changes**,
-1. MINOR version when **new information has been added to the document or information has been removed from the document**, and
-1. PATCH version when you made minor changes (**e.g. fixing typos**).
+1. MAJOR version when you make substantive changes,
+1. MINOR version when you make stylistic changes, and
+1. PATCH version when you fix errors in typography, spelling, grammar, or spacing.
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
