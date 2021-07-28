@@ -13,3 +13,11 @@
 1. MAJOR: Substantive changes.
 2. MINOR: Stylistic changes.
 3. PATCH: Error corrections.
+
+---
+
+Version | SemVerDoc | SemVerDoc 2.0
+-|-|-
+MAJOR | Significant changes. | Substantive changes.
+MINOR | Adding or removing information. | Stylistic changes.
+PATCH | Minor changes (e.g. fixing typos). | Error corrections.
