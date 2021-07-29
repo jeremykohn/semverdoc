@@ -1,4 +1,4 @@
-Semantic Versioning for Documents - Alternative Version 0.1.0
+Semantic Versioning for Documents - Alternative Version 0.1.1
 =============================================================
 
 Summary
@@ -23,7 +23,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Once a versioned document has been released, the contents of that version MUST NOT be modified. Any modifications MUST be released as a new version.
 
-1. Major version zero (0.y.z) is for initial development, brainstorming and prototyping. Anything MAY change at any time. The document SHOULD NOT be considered stable.
+1. Major version zero (0.y.z) is for initial development, brainstorming, and prototyping. Anything MAY change at any time. The document SHOULD NOT be considered stable.
 
 1. Version 1.0.0 defines a final document. The way in which the version number is incremented after this release is dependent on its changes.
 
@@ -31,7 +31,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Minor version Y (x.Y.z | x > 0) MUST be incremented if only changes to the document's style, but not its substance, are introduced. An example is changing or rephrasing a sentence so that it says the same thing using different words. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
 
-1. Major version X (X.y.z | X > 0) MUST be incremented if any changes to the substance of the document are introduced. It MAY also include minor and patch level changes. Patch and minor version MUST be reset to 0 when major version is incremented.
+1. Major version X (X.y.z | X > 0) MUST be incremented if any changes to the substance of the document are introduced. It MAY also include minor and patch level changes. Patch and minor versions MUST be reset to 0 when major version is incremented.
 
 1. A pre-release version MAY be denoted by appending a hyphen and a series of dot separated identifiers immediately following the patch version. Identifiers MUST comprise only ASCII alphanumerics and hyphen [0-9A-Za-z-]. Identifiers MUST NOT be empty. Numeric identifiers MUST NOT include leading zeroes. Pre-release versions have a lower precedence than the associated normal version. A pre-release version indicates that the version is unstable and might not satisfy the intended compatibility requirements as denoted by its associated normal version. Examples: 1.0.0-draft, 1.0.0-forReview.1, 1.0.0-0.3.7, 1.0.0-x.7.z.92.
 
