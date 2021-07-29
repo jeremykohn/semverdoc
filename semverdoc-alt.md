@@ -130,7 +130,7 @@ Backus–Naur Form Grammar for Valid SemVer Versions
 
 Credit
 -------
-This work is heavily based on the Semantic Versioning specification as authored by [Tom Preston-Werner](http://tom.preston-werner.com).
+This work is heavily based on the Semantic Versioning specification as authored by [Tom Preston-Werner](http://tom.preston-werner.com) and the Semantic Versioning for Documents specification as authored by [Nils Tekampe](https://github.com/nils-tekampe).
 
 
 License
