@@ -1,4 +1,4 @@
-Semantic Versioning for Documents - Alternative Version 0.2.0
+Semantic Versioning for Documents - Alternative Version 0.3.0
 =============================================================
 
 Summary
