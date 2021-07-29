@@ -1,4 +1,4 @@
-Semantic Versioning for Documents - Alternative Version 0.1.1
+Semantic Versioning for Documents - Alternative Version 0.2.0
 =============================================================
 
 Summary
@@ -29,7 +29,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Patch version Z (x.y.Z | x > 0) MUST be incremented if only changes that fix errors in spelling, grammar, or spacing are introduced.
 
-1. Minor version Y (x.Y.z | x > 0) MUST be incremented if only changes to the document's style, but not its substance, are introduced. An example is changing or rephrasing a sentence so that it says the same thing using different words. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
+1. Minor version Y (x.Y.z | x > 0) MUST be incremented if changes to the document's style, but not its substance, are introduced. An example is changing or rephrasing a sentence so that it says the same thing using different words. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
 
 1. Major version X (X.y.z | X > 0) MUST be incremented if any changes to the substance of the document are introduced. It MAY also include minor and patch level changes. Patch and minor versions MUST be reset to 0 when major version is incremented.
 
