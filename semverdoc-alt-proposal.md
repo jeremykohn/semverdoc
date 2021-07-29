@@ -8,7 +8,7 @@
 ---
 
 
-### SemVerDoc 2.0 (proposal)
+### SemVerDoc Alt (proposal)
 
 1. MAJOR: Substantive changes.
 2. MINOR: Stylistic changes.
@@ -16,7 +16,7 @@
 
 ---
 
-Version | SemVerDoc | SemVerDoc 2.0
+Version | SemVerDoc | SemVerDoc Alt
 -|-|-
 MAJOR | Significant changes. | Substantive changes.
 MINOR | Adding or removing information. | Stylistic changes.
