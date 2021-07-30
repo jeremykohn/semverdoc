@@ -1,0 +1,14 @@
+~~compatibility~~ requirements
+
+---
+
+Also?
+
+hyphen --> hyphens
+hyphen --> hyphens
+
+Is that a substantive change?
+(In SemVerDoc, examples of pre-release versions and metadata don't include multiple hyphens. Though some examples in SemVer include multiple hyphens.)
+
+
+
