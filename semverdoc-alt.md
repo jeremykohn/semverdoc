@@ -1,4 +1,4 @@
-Semantic Versioning for Documents - Alternative Version 0.3.0
+Semantic Versioning for Documents - Alternative Version 0.4.0
 =============================================================
 
 Summary
@@ -8,7 +8,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 
 1. MAJOR version when you make substantive changes,
 1. MINOR version when you make stylistic changes, and
-1. PATCH version when you fix errors in spelling, grammar, or spacing.
+1. PATCH version when you fix errors in spelling, grammar, punctuation, or spacing.
 
 Additional labels for pre-release and build metadata are available as extensions to the MAJOR.MINOR.PATCH format.
 
@@ -27,7 +27,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 1. Version 1.0.0 defines a final document. The way in which the version number is incremented after this release is dependent on its changes.
 
-1. Patch version Z (x.y.Z | x > 0) MUST be incremented if only changes that fix errors in spelling, grammar, or spacing are introduced.
+1. Patch version Z (x.y.Z | x > 0) MUST be incremented if only changes that fix errors in spelling, grammar, punctuation, or spacing are introduced.
 
 1. Minor version Y (x.Y.z | x > 0) MUST be incremented if changes to the document's style, but not its substance, are introduced. An example is changing or rephrasing a sentence so that it says the same thing using different words. It MAY include patch level changes. Patch version MUST be reset to 0 when minor version is incremented.
 
