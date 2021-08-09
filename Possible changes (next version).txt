@@ -10,5 +10,14 @@ hyphen --> hyphens
 Is that a substantive change?
 (In SemVerDoc, examples of pre-release versions and metadata don't include multiple hyphens. Though some examples in SemVer include multiple hyphens.)
 
+---
+
+### Different project names
+
+Alternative Semantic Versioning for Documents (altsemverdoc)
+
+Semantic Versioning for Text Documents (semvertext)
+
+Semantic Versioning for Text Files (semvertextfile)
 
 
